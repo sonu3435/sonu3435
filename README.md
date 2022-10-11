@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sonu Singh
-- 👀 I’m interested in android developer and C developer
+- 👀 I’m interested in Software developer  
 - 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on android developer 
+- 💞️ I’m looking to collaborate on Software developer 
 - 📫 How to reach me 9568157590
 
 <!---
