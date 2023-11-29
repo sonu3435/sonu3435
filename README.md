@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Sonu Singh
-- 👀 I’m interested in Software developer  
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on Software developer 
-- 📫 How to reach me 9568157590
+-    Full Stack Developer
+-    React || Javascript || Tailwind Css || C/C++ || HTML5 || CSS
 
 <!---
 sonu3435/sonu3435 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
