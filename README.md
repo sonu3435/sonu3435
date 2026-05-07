@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Sonu Singh
-**Backend & Full-Stack Developer | Computer Science Student | Builder**
+**Full Stack Developer | Backend Engineer | MCA @ BHU | React • Node.js • PostgreSQL**
 
 I build things that **solve real problems**, not just projects that look good in screenshots.
 
@@ -95,9 +95,9 @@ AI-powered prescription scanner to detect dosage errors and improve patient safe
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sonu-singh-470023241/  
-- 🧑‍💻 GitHub: https://github.com/sonu3435  
-- 📧 Email: sonusin3435@gmail.com  
+- 💼 LinkedIn: [Sonu Singh](https://www.linkedin.com/in/sonu-singh-470023241/)
+- 🧑‍💻 GitHub: [sonu3435](https://github.com/sonu3435)
+- 🌐 Portfolio: [sonusingh.me](https://www.sonusingh.me)
 
 ---
 
