@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Sonu Singh
-**Full Stack Developer | Backend Engineer | MCA @ BHU | React • Node.js • PostgreSQL**
+**Full Stack Developer | Backend Engineer | React • Node.js • PostgreSQL**
 
 I build things that **solve real problems**, not just projects that look good in screenshots.
 
